@@ -3,5 +3,8 @@
 - Implemented CRUD operations to manipulate the application data from the database
 - Implemented user registration, login, and search functionalities
 
+Application Link:
+- https://to-do-list-app.richardchen7.repl.co
+
 Reference:
 - https://www.youtube.com/watch?v=llbtoQTt4qw
