@@ -6,8 +6,5 @@
 Application Link:
 - https://to-do-list-app.richardchen7.repl.co
 
-Replit:
-- https://replit.com/@RichardChen7/To-Do-List-App
-
 Reference:
 - https://www.youtube.com/watch?v=llbtoQTt4qw
