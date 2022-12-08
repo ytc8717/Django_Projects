@@ -5,6 +5,3 @@
 
 Application Link:
 - https://to-do-list-app.richardchen7.repl.co
-
-Reference:
-- https://www.youtube.com/watch?v=llbtoQTt4qw
